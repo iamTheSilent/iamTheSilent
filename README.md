@@ -14,7 +14,7 @@ A Persian-first planner for individuals and small teams, on Windows, Android and
 - **Claude as project manager.** An MCP server connects an AI assistant to your team with exactly your permissions. It has 25 tools, 3 ready workflows (weekly review, project design, load balancing) and 47 automated tests against the live server. AI-made changes are labelled, so every decision stays visible and reversible.
 - **Ships often:** six releases since the first commit in June 2026, with in-app updates on Windows.
 
-[Download](https://github.com/iamTheSilent/laneh-releases/releases/latest) · [Connect Claude](https://github.com/iamTheSilent/laneh-releases/blob/main/ai/README.md) · [Cafe Bazaar](https://cafebazaar.ir/app/app.laneh) · app.laneh@gmail.com
+[Website](https://laneh.space) · [Download](https://github.com/iamTheSilent/laneh-releases/releases/latest) · [Connect Claude](https://github.com/iamTheSilent/laneh-releases/blob/main/ai/README.md) · [Cafe Bazaar](https://cafebazaar.ir/app/app.laneh) · app.laneh@gmail.com
 
 ### 🏥 Clinic management system (private, client project)
 Built from scratch for a private clinic and now launching. It has separate roles for reception, midwife and doctor, so each role sees only the data it needs. Every clinical read by someone outside the patient's care is logged. Backups are encrypted, and restoring them is tested on a schedule.
